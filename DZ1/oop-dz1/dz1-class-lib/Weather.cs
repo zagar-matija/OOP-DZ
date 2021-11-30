@@ -41,7 +41,7 @@ namespace dz1_class_lib
         public double CalculateWindChill()
         {
             double windChill = 13.12 + 0.6215 * temperature - 11.37 * Math.Pow(windSpeed, 0.16) + 0.3965 * temperature * Math.Pow(windSpeed, 0.16);
-            if (windChill < temperature)
+            if (temperature <= 10 && windSpeed > 4.8)
                 return windChill;
             else
                 return 0;
