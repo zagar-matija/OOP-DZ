@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleWeatherUI", "dz2\ConsoleWeatherUI.csproj", "{0293AE92-3548-4818-B907-30B5FFF13947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz2_cslib", "dz2_cslib\dz2_cslib.csproj", "{FFE0ACBE-200C-49F4-AD43-8ED60034F9E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0293AE92-3548-4818-B907-30B5FFF13947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0293AE92-3548-4818-B907-30B5FFF13947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0293AE92-3548-4818-B907-30B5FFF13947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0293AE92-3548-4818-B907-30B5FFF13947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE0ACBE-200C-49F4-AD43-8ED60034F9E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE0ACBE-200C-49F4-AD43-8ED60034F9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE0ACBE-200C-49F4-AD43-8ED60034F9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE0ACBE-200C-49F4-AD43-8ED60034F9E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B659FDF7-96D0-4846-9E06-77C5F7C1CD51}
+	EndGlobalSection
+EndGlobal
