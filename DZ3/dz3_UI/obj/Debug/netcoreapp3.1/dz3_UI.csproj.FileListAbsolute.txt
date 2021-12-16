@@ -1,0 +1,17 @@
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\obj\Debug\netcoreapp3.1\dz3_UI.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\obj\Debug\netcoreapp3.1\dz3_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\obj\Debug\netcoreapp3.1\dz3_UI.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\obj\Debug\netcoreapp3.1\dz3_UI.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\obj\Debug\netcoreapp3.1\dz3_UI.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\bin\Debug\netcoreapp3.1\dz3_UI.exe
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\bin\Debug\netcoreapp3.1\dz3_UI.deps.json
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\bin\Debug\netcoreapp3.1\dz3_UI.runtimeconfig.json
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\bin\Debug\netcoreapp3.1\dz3_UI.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\bin\Debug\netcoreapp3.1\dz3_UI.dll
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\bin\Debug\netcoreapp3.1\dz3_UI.pdb
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\bin\Debug\netcoreapp3.1\dz3_class_lib.dll
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\bin\Debug\netcoreapp3.1\dz3_class_lib.pdb
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\obj\Debug\netcoreapp3.1\dz3_UI.dll
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\obj\Debug\netcoreapp3.1\dz3_UI.pdb
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\obj\Debug\netcoreapp3.1\dz3_UI.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\oop-dz1\OOP-DZ\DZ3\dz3_UI\obj\Debug\netcoreapp3.1\dz3_UI.csproj.CopyComplete

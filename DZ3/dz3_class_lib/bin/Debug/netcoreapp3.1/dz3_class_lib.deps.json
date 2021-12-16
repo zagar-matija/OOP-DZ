@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "dz3_class_lib/1.0.0": {
+        "runtime": {
+          "dz3_class_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dz3_class_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -21,7 +21,7 @@ namespace dz2
 
             // Assume a valid input file (correct format).
             // Assume that the number of rows in the text file is always 7. 
-            string fileName = "weather.forecast";
+            string fileName = "C:\\Users\\Korisnik\\Desktop\\oop-dz1\\OOP-DZ\\DZ2\\dz2\\dz2\\weather.forecast";
             if (File.Exists(fileName) == false)
             {
                 Console.WriteLine("The required file does not exist. Please create it, or change the path.");
